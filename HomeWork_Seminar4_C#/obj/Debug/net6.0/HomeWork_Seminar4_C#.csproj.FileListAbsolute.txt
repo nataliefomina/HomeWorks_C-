@@ -1,0 +1,15 @@
+D:\курсы\GeekBrains програмирования\HomeWorks_C#\HomeWork_Seminar4_C#\obj\Debug\net6.0\HomeWork_Seminar4_C#.csproj.AssemblyReference.cache
+D:\курсы\GeekBrains програмирования\HomeWorks_C#\HomeWork_Seminar4_C#\obj\Debug\net6.0\HomeWork_Seminar4_C#.GeneratedMSBuildEditorConfig.editorconfig
+D:\курсы\GeekBrains програмирования\HomeWorks_C#\HomeWork_Seminar4_C#\obj\Debug\net6.0\HomeWork_Seminar4_C#.AssemblyInfoInputs.cache
+D:\курсы\GeekBrains програмирования\HomeWorks_C#\HomeWork_Seminar4_C#\obj\Debug\net6.0\HomeWork_Seminar4_C#.AssemblyInfo.cs
+D:\курсы\GeekBrains програмирования\HomeWorks_C#\HomeWork_Seminar4_C#\obj\Debug\net6.0\HomeWork_Seminar4_C#.csproj.CoreCompileInputs.cache
+D:\курсы\GeekBrains програмирования\HomeWorks_C#\HomeWork_Seminar4_C#\bin\Debug\net6.0\HomeWork_Seminar4_C#.exe
+D:\курсы\GeekBrains програмирования\HomeWorks_C#\HomeWork_Seminar4_C#\bin\Debug\net6.0\HomeWork_Seminar4_C#.deps.json
+D:\курсы\GeekBrains програмирования\HomeWorks_C#\HomeWork_Seminar4_C#\bin\Debug\net6.0\HomeWork_Seminar4_C#.runtimeconfig.json
+D:\курсы\GeekBrains програмирования\HomeWorks_C#\HomeWork_Seminar4_C#\bin\Debug\net6.0\HomeWork_Seminar4_C#.dll
+D:\курсы\GeekBrains програмирования\HomeWorks_C#\HomeWork_Seminar4_C#\bin\Debug\net6.0\HomeWork_Seminar4_C#.pdb
+D:\курсы\GeekBrains програмирования\HomeWorks_C#\HomeWork_Seminar4_C#\obj\Debug\net6.0\HomeWork_Seminar4_C#.dll
+D:\курсы\GeekBrains програмирования\HomeWorks_C#\HomeWork_Seminar4_C#\obj\Debug\net6.0\refint\HomeWork_Seminar4_C#.dll
+D:\курсы\GeekBrains програмирования\HomeWorks_C#\HomeWork_Seminar4_C#\obj\Debug\net6.0\HomeWork_Seminar4_C#.pdb
+D:\курсы\GeekBrains програмирования\HomeWorks_C#\HomeWork_Seminar4_C#\obj\Debug\net6.0\HomeWork_Seminar4_C#.genruntimeconfig.cache
+D:\курсы\GeekBrains програмирования\HomeWorks_C#\HomeWork_Seminar4_C#\obj\Debug\net6.0\ref\HomeWork_Seminar4_C#.dll

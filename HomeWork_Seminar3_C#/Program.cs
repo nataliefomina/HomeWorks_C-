@@ -53,7 +53,7 @@
 // 3 -> 1, 8, 27; 5 -> 1, 8, 27, 64, 125 
 
 // int number = ReadInt("Введите число: ");
-
+с
 // for (int i = 1; i <= number; i++)
 // {
 //     Console.Write($"{i * i * i}, ");
