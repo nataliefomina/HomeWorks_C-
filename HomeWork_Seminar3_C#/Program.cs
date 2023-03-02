@@ -3,11 +3,11 @@
 // Выполнено
 // Console.WriteLine ("Введите 5-ти значное число: ");
 // string number = Console.ReadLine();
-// int length = number.Length;
+// int length = number.Length;/* Length это индексы массива */
 
-// if (length == 5)
+// if (length == 5) /* Length это индексы массива */
 // {
-//     if (number[0] == number[4] && number [1] == number[3])
+//     if (number[0] == number[4] && number [1] == number[3])/* число 23432 тоесть 2=2 нулевой и 4 индекс */
 //     {
 //         Console.WriteLine(number + " Палиндром");
 //     }
@@ -26,7 +26,7 @@
 // Напишите программу, которая принимает на вход координаты двух точек и находит расстояние между ними в 3D пространстве.
 // A (3,6,8); B (2,1,-7), -> 15.84
 // A (7,-5, 0); B (1,-1,9) -> 11.53
-// Выполнено
+// Выполнено хотя какаято фигня...
 
 // int x1 = ReadInt("Введите х для точки 1: ");
 // int y1 = ReadInt("Введите y для точки 1: ");
@@ -39,7 +39,7 @@
 // int B = y2 - y1;
 // int C = z2 - z1;
 
-// double length = Math.Sqrt(A * A + B * B + C * C);
+// double length = Math.Round(Math.Sqrt(A * A + B * B + C * C));/* Math.Sqrt математическая функция которая извлекает квадратный корень */
 // Console.WriteLine("Расстояние = " + length);
 
 // int ReadInt(string message)
@@ -52,15 +52,15 @@
 // Напишите программу, которая принимает на вход число (N) и выдаёт таблицу кубов чисел от 1 до N.
 // 3 -> 1, 8, 27; 5 -> 1, 8, 27, 64, 125 
 
-// int number = ReadInt("Введите число: ");
-с
-// for (int i = 1; i <= number; i++)
-// {
-//     Console.Write($"{i * i * i}, ");
-// }
+int number = ReadInt("Введите число: ");
 
-// int ReadInt(string message)
-// {
-//     Console.Write(message);
-//     return Convert.ToInt32(Console.ReadLine());
-// }
+for (int i = 1; i <= number; i++) /* оперант for вместо while */
+{
+    Console.Write($"{i * i * i}, ");
+}
+
+int ReadInt(string message)
+{
+    Console.Write(message);
+    return Convert.ToInt32(Console.ReadLine());
+}

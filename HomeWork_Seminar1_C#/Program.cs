@@ -73,7 +73,7 @@
 // while(current <= num)
 // {
 //     if(current % 2 == 0)
-//         Console.WriteLine(current + " ");
+//         Console.Write(current + " ");
 //         current++;
 // }
 

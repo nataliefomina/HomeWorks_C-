@@ -1,9 +1,42 @@
 ﻿// Напишите цикл, который принимает на вход два числа (A и B) и возводит число A в натуральную степень B.
+// 3, 5 -> 243 (3⁵) 2, 4 -> 16
 
-// 3, 5 -> 243 (3⁵)
+// int Promt(string message)
+// {
+//     Console.Write(message);
+//     string readInput = Console.ReadLine();
+//     int result = int.Parse(readInput);
+//     return result;
+// }
 
-// 2, 4 -> 16
+// int Exponentiation(int powerBase, int power)
+// {
+//     int exponent = 1;
+//     for (int i = 0; i < power; i++)
+//     {
+//         exponent *= powerBase;
+//     }
+//     return exponent;
+// }
 
+// bool ValidatePover(int power)
+// {
+//     if (power <= 0)
+//     {
+//         Console.WriteLine("Степень возведения не должна быть нулем или меньше нуля");
+//         return false;
+//     }
+//     return true;
+// }
+
+// Console.Write("Введите число: ");
+// int powerBase = Convert.ToInt32(Console.ReadLine());
+// Console.Write("Введите степень возведения числа: ");
+// int power = Convert.ToInt32(Console.ReadLine());
+// if (ValidatePover(power))
+// {
+//     Console.WriteLine($"Число {powerBase} в степени {power} равно {Exponentiation(powerBase, power)}");
+// }
 
 
 
