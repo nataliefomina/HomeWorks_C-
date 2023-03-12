@@ -130,7 +130,7 @@
 // }
 
 // Console.WriteLine($"The row #{minSumLine + 1} has a smaller sum of elements, equal to {sumLine}.");
-// /*Задача 54 end*/
+// /*Задача 56 end*/
 
 
 
